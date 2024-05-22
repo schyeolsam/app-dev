@@ -5,11 +5,11 @@ My first repository
 1. Casper
 2. Monster House
 3. Monster Inc.
-# Horror Movies*
+**Horror Movies**
 1. Conjuring
-2. Mama
-3. Conjuring 2
-# Filpino Movies
+2. Conjuring 2
+3. Mama
+**Filipino Movies**
 1. Seven Sundays
-2. Rewind
-3. Four Sister and a Wedding
+2. Four Sisters and a Wedding
+3. Rewind
